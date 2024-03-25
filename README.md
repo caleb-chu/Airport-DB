@@ -1,3 +1,5 @@
+Program is run by running project2.py, but other classes contains my implementations of functionality for continents, countries, and regions respectively. Currently figuring out how to make modules look more structured on github.
+
 # Airport-DB
 **FUNCTIONALITY**
 Search for continents in the database, given either a continent code, a name, or both, displaying all of the continents that exactly match the given characteristics.
